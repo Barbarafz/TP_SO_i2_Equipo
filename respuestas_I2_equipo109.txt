@@ -21,9 +21,17 @@ no, se mantienen con los cambios realizados
 
 BETA: BARBARA FERNANDEZ R.
 
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos.
 
+1) git clone [link del repositorio original]
+2) touch [nombre de archivo]
+3) git add .
+4) git commit -m "[explicación de la modificación que se hizo]
+5) git status (para verificar que todo este en orden) 
+6) git push
+7) git pull
 
-
+ALFA: LUCAS ALEJANDRO GONZALEZ
 
 
 
