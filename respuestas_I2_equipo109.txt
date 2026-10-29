@@ -10,7 +10,16 @@ si , si es que estan subido los cambios que realizo gamma
 
 GAMMA: FIGUEROA MAURICIO SANTIAGO
 
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 
+si se puede
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+
+no, se mantienen con los cambios realizados
+
+BETA: BARBARA FERNANDEZ R.
 
 
 
