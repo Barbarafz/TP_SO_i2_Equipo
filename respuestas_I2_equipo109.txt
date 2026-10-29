@@ -1,0 +1,21 @@
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+se actualiza el repositorio con un git pull, de esa manera todos los cambios realizados en el repositorio se actualizan de manera local
+
+
+
+
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+si , si es que estan subido los cambios que realizo gamma
+
+
+GAMMA: FIGUEROA MAURICIO SANTIAGO
+
+
+
+
+
+
+
+
+
+
